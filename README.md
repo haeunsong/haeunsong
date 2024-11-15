@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![Intellij IDEA](https://img.shields.io/badge/Intellij%20IDEA-000000.svg?&style=for-the-badge&logo=Intellij%20IDEA&logoColor=white)
 
 
-## 💎 백준 플레 가즈아아
+## 💎 백준 플레 가즈아아 ✨✨
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jamy0225)](https://solved.ac/jamy0225/)
 
 ## 💪 Blog
