@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Intellij IDEA](https://img.shields.io/badge/Intellij%20IDEA-000000.svg?&style=for-the-badge&logo=Intellij%20IDEA&logoColor=white)
 
-## 세상에서 코딩테스트가 제일 쉽다. 왜냐면 답이 있으니까.
+## 🤔 세상에서 코딩테스트가 제일 쉽다. 왜냐면 답이 있으니까.
 ## 💎 백준 플레 가즈아아 ✨✨
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jamy0225)](https://solved.ac/jamy0225/)
 
