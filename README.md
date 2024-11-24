@@ -27,5 +27,3 @@ Here are some ideas to get you started:
 ## 💎 백준 플레 가즈아아 ✨✨
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jamy0225)](https://solved.ac/jamy0225/)
 
-## 💪 Blog
-https://velog.io/@meyame/posts
